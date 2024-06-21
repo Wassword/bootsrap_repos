@@ -1,0 +1,36 @@
+
+.hero-section {
+    font-family:'M PLUS Rounded 1c', sans-serif; 
+    background-image: url('https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/268188791_230895919186042_7650747709904930536_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=k-HNzP-ms-0Q7kNvgGZOmHl&_nc_ht=scontent-iad3-2.xx&oh=00_AYD4L574csbr5vQoVxqDA91hMRfrhbu7WK6Jvti5a_vhYw&oe=667A52ED');
+    background-size: cover;
+    background-position: center;
+    color: rgb(81, 76, 76);
+    padding: 100px 0;
+    font-weight: bold;
+}
+.navbar {
+    background-color: #ff6200 !important;
+    font-family:'M PLUS Rounded 1c', sans-serif !important; 
+    color: aliceblue !important;
+    font-weight: bold;
+
+
+}
+.hero-heading {
+    font-size: 6rem; 
+    font-weight: bold;
+    
+
+
+
+}
+.about-section {
+    background-color: rgb(252, 241, 241);
+}
+.features-section.card {
+    margin-bottom: 30px;
+}  
+
+.contact-section {
+    background-color: antiquewhite;
+}
